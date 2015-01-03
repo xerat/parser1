@@ -1,0 +1,4906 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<flatNet Version="1" id="{01420220-1055-0ce3-C799-C810B68D2AAF}" sch="Tvm-mainboard">
+<partNumbers>
+<PartNumber Name="PN_LIB_NAME" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="PART_NAME"/>
+<A Key="ALTPARTREF" Value="PART_REF"/>
+<A Key="ALTPCBSYMBOL" Value="PCB_SYMBOL"/>
+<A Key="DESC" Value="DESCRIPTION"/>
+<A Key="VALUE" Value="VALUE"/>
+<A Key="MFR" Value="MANUFACTURER"/>
+<A Key="DST" Value="DISTRIBUTOR"/>
+<A Key="MFR_PN" Value="MANUFACTR_PART_NUM"/>
+<A Key="DST_PN" Value="DISTRIBUTOR_PART_NUM"/>
+<A Key="TYPE" Value="COMP_TYPE"/>
+<A Key="TOL" Value="COMP_TOLERANCE"/>
+<A Key="VR" Value="COMP_VOLTAGE_RATING"/>
+<A Key="PR" Value="COMP_POWER_RATING"/>
+<A Key="TC" Value="COMP_TEMP_COEFFICIENT"/>
+<A Key="DIELC" Value="COMP_DIELECTRIC"/>
+<A Key="FP" Value="PCB_SYMBOL"/>
+<A Key="MIN_QTY" Value="MINIMUM_ORDER_QTY"/>
+<A Key="PRICE" Value="PRICE"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="DB9-MALE-FEMALE-2M" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="DB9-MALE-FEMALE-2M"/>
+<A Key="ALTPARTREF" Value="DB9S"/>
+<A Key="ALTPCBSYMBOL" Value="DB9S"/>
+<A Key="PARTDESC" Value="CABLE ASSY"/>
+<A Key="DESC" Value="CABLE"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="DIGIKEY"/>
+<A Key="DST_PN" Value="367-1129-ND"/>
+<A Key="FP" Value="DB9S"/>
+<A Key="MFR" Value="EMERSON"/>
+<A Key="MFR_PN" Value="30-9506-99"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="800mA"/>
+<A Key="PRICE" Value="4.53"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="SHIELDED"/>
+<A Key="VALUE" Value="CABLE-DB9"/>
+<A Key="VR" Value="3.3V"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="SUBRACK-ELGEE-3U-280" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="WIRE-FERULE-24AWG"/>
+<A Key="ALTPARTREF" Value="SBR0"/>
+<A Key="ALTPCBSYMBOL" Value="SBR0"/>
+<A Key="PARTDESC" Value="SUBRACK 3U 280mm"/>
+<A Key="DESC" Value="SUBRACK 3U 280mm"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="ELGEE"/>
+<A Key="DST_PN" Value="3U280B"/>
+<A Key="FP" Value="SBR0"/>
+<A Key="MFR" Value="ELGEE"/>
+<A Key="MFR_PN" Value="3U280B"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="19&quot; RACK"/>
+<A Key="VALUE" Value="SUBRACK-3U-280mm"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="MAIN-POWER-BOARD-XX-YY" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="MAIN-POWER-BOARD"/>
+<A Key="ALTPARTREF" Value="CAB0"/>
+<A Key="ALTPCBSYMBOL" Value="CAB0"/>
+<A Key="PARTDESC" Value="CABINET"/>
+<A Key="DESC" Value="CABINET MAIN POWER"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="??"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="??"/>
+<A Key="MFR" Value="??"/>
+<A Key="MFR_PN" Value="3U280B"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="19&quot; RACK"/>
+<A Key="VALUE" Value="MAIN-POWER-BOARD"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CB-3-PHASE-TBDA-CHINT" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CB-3-PHASE-TBDA"/>
+<A Key="ALTPARTREF" Value="CBRKR06"/>
+<A Key="ALTPCBSYMBOL" Value="CBRKR06."/>
+<A Key="PARTDESC" Value="CIRCUIT BREAKER"/>
+<A Key="DESC" Value="CIRCUIT BREAKER"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="??"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="CBRKR06"/>
+<A Key="MFR" Value="??"/>
+<A Key="MFR_PN" Value="??"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10A"/>
+<A Key="PRICE" Value="3.52"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="DINRAIL-MOUNT"/>
+<A Key="VALUE" Value="CHINT-TBDA"/>
+<A Key="VR" Value="240 VAC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CN05-CLIPSAL-56A1523-32AMP" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CLIPSAL-56A1523-32A"/>
+<A Key="ALTPARTREF" Value="CN05"/>
+<A Key="ALTPCBSYMBOL" Value="CN05"/>
+<A Key="PARTDESC" Value="CONN SOCKET 3 PHASE"/>
+<A Key="DESC" Value="CONN SKT 3 PHASE"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="CN05"/>
+<A Key="MFR" Value="CLIPSAL"/>
+<A Key="MFR_PN" Value="56A1523"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="SOCKET SWITCH"/>
+<A Key="VALUE" Value="CLIPSAL-56A1523-32AMP"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CN05-HYPRA-LEGRAND53051-32AMP" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="HYPRA-LEGRAND-53051-32A"/>
+<A Key="ALTPARTREF" Value="CN05"/>
+<A Key="ALTPCBSYMBOL" Value="CN05"/>
+<A Key="PARTDESC" Value="CONN SOCKET 3 PHASE"/>
+<A Key="DESC" Value="CONN SKT 3 PHASE"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="CN05"/>
+<A Key="MFR" Value="HYPRA-LEGRAND"/>
+<A Key="MFR_PN" Value="53051"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="SOCKET SWITCH"/>
+<A Key="VALUE" Value="HYPRA-LEGRAND-53051-32AMP"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CTR-3-PHASE-TBDA-CHINT" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CTR-3-PHASE-TBDA"/>
+<A Key="ALTPARTREF" Value="CTR11"/>
+<A Key="ALTPCBSYMBOL" Value="CTR11"/>
+<A Key="PARTDESC" Value="CONTACTER"/>
+<A Key="DESC" Value="CONTACTER"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="??"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="CTR11"/>
+<A Key="MFR" Value="??"/>
+<A Key="MFR_PN" Value="??"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10A"/>
+<A Key="PRICE" Value="3.52"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="DINRAIL-MOUNT"/>
+<A Key="VALUE" Value="CHINT-TBDA"/>
+<A Key="VR" Value="240 VAC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="TRML-PIN.M-CRIMP-YEL-2.5-6mm" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="ALTPARTREF" Value="TRML-PIN"/>
+<A Key="ALTPCBSYMBOL" Value="TRML-PIN.M-CRIMP-YEL-2.5-6mm"/>
+<A Key="PARTDESC" Value="TERMINAL PIN"/>
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MFR" Value="??"/>
+<A Key="MFR_PN" Value="??"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PR" Value="NA"/>
+<A Key="PRICE" Value="24.00"/>
+<A Key="TC" Value="NA"/>
+<A Key="TOL" Value="NA"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="VR" Value="NA"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="TRML-FORK.CRIMP-YEL-M2.5-M6" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="ALTPARTREF" Value="TRML-FORK"/>
+<A Key="ALTPCBSYMBOL" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="PARTDESC" Value="FORK TERMINAL"/>
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="DST" Value="??"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="??"/>
+<A Key="MFR_PN" Value="??"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="NA"/>
+<A Key="PRICE" Value="0.53"/>
+<A Key="TC" Value="NA"/>
+<A Key="TOL" Value="NA"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="VR" Value="NA"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="RELAY-PHASE-FAILURE" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="RELAY-PHASE-FAILURE"/>
+<A Key="ALTPARTREF" Value="RLY06"/>
+<A Key="ALTPCBSYMBOL" Value="RLY06.DPA51-PHASE-MON"/>
+<A Key="PARTDESC" Value="RELAY PHASE FAILURE"/>
+<A Key="DESC" Value="RELAY PHASE FAILURE"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="DIGIKEY"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="RLY06"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="MFR_PN" Value="DPA51CM44B003"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="15A"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="DIN MOUNT"/>
+<A Key="VALUE" Value="DPA51CM44B003"/>
+<A Key="VR" Value="240VAC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="RLY-SKT-PANEL-MNT-K10" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="RELAY-SKT-K10"/>
+<A Key="ALTPARTREF" Value="RLS08"/>
+<A Key="ALTPCBSYMBOL" Value="RLS08"/>
+<A Key="PARTDESC" Value="RELAY SKT PANEL MNT"/>
+<A Key="DESC" Value="RELAY SOCKET"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="DIGIKEY"/>
+<A Key="DST_PN" Value="PB642-ND"/>
+<A Key="FP" Value="RLS08"/>
+<A Key="MFR" Value="TE Connectivity"/>
+<A Key="MFR_PN" Value="27E487"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10A"/>
+<A Key="PRICE" Value="7.91"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="PANEL MNT"/>
+<A Key="VALUE" Value="RELAY-SKT-K10"/>
+<A Key="VR" Value="120 VAC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="RELAY-DPDT-10A-110V-K10" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="RELAY-DPDT-10A-110V-K10"/>
+<A Key="ALTPARTREF" Value="RLY08"/>
+<A Key="ALTPCBSYMBOL" Value="RLY08"/>
+<A Key="PARTDESC" Value="RELAY DPDT 10A"/>
+<A Key="DESC" Value="RELAY DPDT"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="DIGIKEY"/>
+<A Key="DST_PN" Value="K10N-11D11-110-ND"/>
+<A Key="FP" Value="RLY08"/>
+<A Key="MFR" Value="TE Connectivity"/>
+<A Key="MFR_PN" Value="K10N-11D11-110"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10A"/>
+<A Key="PRICE" Value="7.91"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="PANEL MNT"/>
+<A Key="VALUE" Value="RELAY-DPDT-K10"/>
+<A Key="VR" Value="240 VAC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CN06-XLR-NC6FD-LX" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="XLR-NC6FD-LX"/>
+<A Key="ALTPARTREF" Value="CN06"/>
+<A Key="ALTPCBSYMBOL" Value="CN06.NEUTRIK-NC6FD-LX"/>
+<A Key="PARTDESC" Value="CONN XLR 6 PIN"/>
+<A Key="DESC" Value="CONNECTOR"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="MOUSER"/>
+<A Key="DST_PN" Value="568-NC6FD-LX"/>
+<A Key="FP" Value="CN06.NEUTRIK-NC6FD-LX"/>
+<A Key="MFR" Value="NUTRIK"/>
+<A Key="MFR_PN" Value="NC6FD-LX"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="21.65"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="XLR"/>
+<A Key="VALUE" Value="XLR-NC6FD-LX"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="LED-CHINT22-DC24V" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="LED-RED-CHINT22-24V"/>
+<A Key="ALTPARTREF" Value="LED02"/>
+<A Key="ALTPCBSYMBOL" Value="LED02.CHINT22-DC24V"/>
+<A Key="PARTDESC" Value="LED 22mm"/>
+<A Key="DESC" Value="LED-RED 22MM"/>
+<A Key="DIELC" Value=""/>
+<A Key="DST" Value="CHINT"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="LED02.CHINT22-DC24V"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10mA"/>
+<A Key="PRICE" Value="1.60"/>
+<A Key="TC" Value=""/>
+<A Key="TOL" Value="NA"/>
+<A Key="TYPE" Value="RED 22MM"/>
+<A Key="VALUE" Value="LED_22mm_RED"/>
+<A Key="VR" Value=""/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CN03-AUST-GPO" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="NITELITEPWR"/>
+<A Key="ALTPARTREF" Value="CN03"/>
+<A Key="ALTPCBSYMBOL" Value="CN03.NITELIGHTP1"/>
+<A Key="PARTDESC" Value="NITELIGHT PWR CONN"/>
+<A Key="DESC" Value="NITE LIGHT PWR CONN"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="CN03.NITELIGHTP1"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="CUSTOM"/>
+<A Key="VALUE" Value="AC-PLUG-MALE"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CB-SINGLE-PHASE-RCD-16A" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CB-SINGLE-PHASE-10A"/>
+<A Key="ALTPARTREF" Value="CBRKR04"/>
+<A Key="ALTPCBSYMBOL" Value="CBRKR04.CHINT-NBH8LE-40-C16"/>
+<A Key="PARTDESC" Value="CIRCUIT BREAKER"/>
+<A Key="DESC" Value="CIRCUIT BREAKER"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="CB02"/>
+<A Key="MFR" Value="AGM"/>
+<A Key="MFR_PN" Value="MOD6110"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10A"/>
+<A Key="PRICE" Value="3.52"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="PANEL-MOUNT"/>
+<A Key="VALUE" Value="CHINT-NBH8LE-40-C16"/>
+<A Key="VR" Value="240 VAC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CN03-POWER-SKT-FEMALE" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="NITELITEPWR"/>
+<A Key="ALTPARTREF" Value="CN03"/>
+<A Key="ALTPCBSYMBOL" Value="CN03.NITELIGHTP1"/>
+<A Key="PARTDESC" Value="NITELIGHT PWR CONN"/>
+<A Key="DESC" Value="NITE LIGHT PWR CONN"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="CN03.NITELIGHTP1"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="CUSTOM"/>
+<A Key="VALUE" Value="AC-PLUG-MALE"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="TERMINAL PIN-BLU-1.04-2.6mm"/>
+<A Key="ALTPARTREF" Value="TRML-PIN"/>
+<A Key="ALTPCBSYMBOL" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="PARTDESC" Value="TERMINAL PIN"/>
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="??"/>
+<A Key="MFR_PN" Value="??"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PR" Value="NA"/>
+<A Key="PRICE" Value="24.00"/>
+<A Key="TC" Value="NA"/>
+<A Key="TOL" Value="NA"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="VR" Value="NA"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="TRML-QC.FI-FEMALE-BLU-6.3" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="TERMINAL-QC-FI-F-BLU-6.3"/>
+<A Key="ALTPARTREF" Value="TRML-QC"/>
+<A Key="ALTPCBSYMBOL" Value="TRML-QC.FI-FEMALE-BLU-6.3"/>
+<A Key="PARTDESC" Value="TERMINAL QUICK CONNECT"/>
+<A Key="DESC" Value="TERMINAL QUICK CONNECT"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="FP" Value="TRML-QC.FI-FEMALE-BLU-6.3"/>
+<A Key="MFR" Value="??"/>
+<A Key="MFR_PN" Value="??"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PR" Value="NA"/>
+<A Key="PRICE" Value="24.00"/>
+<A Key="TC" Value="NA"/>
+<A Key="TOL" Value="NA"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="VALUE" Value="TERMINAL-QC-FI-F-BLU-6.3"/>
+<A Key="VR" Value="NA"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CB-3-PHASE-CHINT-NB163-C32" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CB-3-PHASE-CHINT-NB163-C32"/>
+<A Key="ALTPARTREF" Value="CBRKR06"/>
+<A Key="ALTPCBSYMBOL" Value="CBRKR06.CHINT-NB163-C32"/>
+<A Key="PARTDESC" Value="CIRCUIT BREAKER"/>
+<A Key="DESC" Value="CIRCUIT BREAKER"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="??"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="CBRKR06.CHINT-NB163-C32"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="MFR_PN" Value="NB163-C32"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10A"/>
+<A Key="PRICE" Value="3.52"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="DINRAIL-MOUNT"/>
+<A Key="VALUE" Value="CHINT-NB163-C32"/>
+<A Key="VR" Value="240 VAC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CTR-3-PHASE-CHINT-NC1-32" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CTR-3-PHASE-CHINT-NC1-32"/>
+<A Key="ALTPARTREF" Value="CTR11"/>
+<A Key="ALTPCBSYMBOL" Value="CTR11.CHINT-NC1-32"/>
+<A Key="PARTDESC" Value="CONTACTER"/>
+<A Key="DESC" Value="CONTACTER"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="??"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="CTR11.CHINT-NC1-32"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="MFR_PN" Value="NC1-32"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="32A"/>
+<A Key="PRICE" Value="3.52"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="DINRAIL-MOUNT"/>
+<A Key="VALUE" Value="CHINT-NC1-32"/>
+<A Key="VR" Value="240 VAC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CN05-HYPRA-LEGRAND-53051-32AMP" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="HYPRA-LEGRAND-53051-32A"/>
+<A Key="ALTPARTREF" Value="CN05"/>
+<A Key="ALTPCBSYMBOL" Value="CN05.HYPRA-LEGRAND-53051"/>
+<A Key="PARTDESC" Value="CONN SOCKET 3 PHASE"/>
+<A Key="DESC" Value="CONN SKT 3 PHASE"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="CN05.HYPRA-LEGRAND-53051"/>
+<A Key="MFR" Value="HYPRA-LEGRAND"/>
+<A Key="MFR_PN" Value="53051"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="SOCKET SWITCH"/>
+<A Key="VALUE" Value="HYPRA-LEGRAND-53051-32AMP"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CN11-CLIPSAL-56A1523-32AMP" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CLIPSAL-56A1523-32A"/>
+<A Key="ALTPARTREF" Value="CN11"/>
+<A Key="ALTPCBSYMBOL" Value="CN11.CLIPSAL-3-PHASE-SKT-SWITCH"/>
+<A Key="PARTDESC" Value="CONN SOCKET 3 PHASE"/>
+<A Key="DESC" Value="CONN SKT 3 PHASE"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="CN11.CLIPSAL-3-PHASE-SKT-SWITCH"/>
+<A Key="MFR" Value="CLIPSAL"/>
+<A Key="MFR_PN" Value="56A1523"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="SOCKET SWITCH"/>
+<A Key="VALUE" Value="CLIPSAL-56A1523-32AMP"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CTR11-TEST" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CB-SINGLE-PHASE-15A"/>
+<A Key="ALTPARTREF" Value="CTR11"/>
+<A Key="ALTPCBSYMBOL" Value="CTR11.TEST"/>
+<A Key="PARTDESC" Value="CIRCUIT BREAKER"/>
+<A Key="DESC" Value="CIRCUIT BREAKER"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="DST_PN" Value="S5592"/>
+<A Key="FP" Value="CBRKR03"/>
+<A Key="MFR" Value="??"/>
+<A Key="MFR_PN" Value="??"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10A"/>
+<A Key="PRICE" Value="3.52"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="PANEL-MOUNT"/>
+<A Key="VALUE" Value="ALTRONICS-S5592-15A"/>
+<A Key="VR" Value="240 VAC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CHINT-RLY-SKT-CZT08B-01E" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CHINT-RELAY-SKT-CZTT08B-01E"/>
+<A Key="ALTPARTREF" Value="RLS08"/>
+<A Key="ALTPCBSYMBOL" Value="RLS08.CHINT-DPDT-CZT08B-01E"/>
+<A Key="PARTDESC" Value="RELAY SKT DINRAIL MNT"/>
+<A Key="DESC" Value="RELAY SOCKET"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="CHINT"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="RLS08"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="MFR_PN" Value="TBD"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10A"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="PANEL MNT"/>
+<A Key="VALUE" Value="CHINT-RELAY-SKT-DPDT"/>
+<A Key="VR" Value="24V DC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CN03-NEUTRIK-PWRCON-NAC3FPX" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="NEUTRIK-NAC3FPX"/>
+<A Key="ALTPARTREF" Value="CN03"/>
+<A Key="ALTPCBSYMBOL" Value="CN03.NEUTRIK-NAC3FPX"/>
+<A Key="PARTDESC" Value="CONN XLR POWER"/>
+<A Key="DESC" Value="CONN XLR POWER"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="CN03.NEUTRIK-NAC3FPX"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="NEUTRIK-NAC3FPX"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="XLR"/>
+<A Key="VALUE" Value="NEUTRIK-NAC3FPX"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="CN03-CLIPSAL-2025-DUAL-GPO" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="CLIPSAL-DUAL-GPO-2025"/>
+<A Key="ALTPARTREF" Value="CN03"/>
+<A Key="ALTPCBSYMBOL" Value="CN03.CLIPSAL-DUAL-GPO-2025"/>
+<A Key="PARTDESC" Value="DUAL GPO"/>
+<A Key="DESC" Value="NITE LIGHT PWR CONN"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="CN03.CLIPSAL-DUAL-GPO-2025"/>
+<A Key="MFR" Value="CLIPSAL"/>
+<A Key="MFR_PN" Value="2025"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="CUSTOM"/>
+<A Key="VALUE" Value="CLIPSAL-2025"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="IPD-BM40630G-CABINET" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="IPD-BM40630G"/>
+<A Key="ALTPARTREF" Value="CAB0"/>
+<A Key="ALTPCBSYMBOL" Value="CAB0.IPD-BM40630G"/>
+<A Key="PARTDESC" Value="CABINET"/>
+<A Key="DESC" Value="CABINET MAIN POWER"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="??"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="??"/>
+<A Key="MFR" Value="IPD"/>
+<A Key="MFR_PN" Value="BM40630G"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="400X600X300mm"/>
+<A Key="VALUE" Value="IPD-BM40630G"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="NHP-CSB-24-ST-PWR-BOARD" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="NHP-CSB-24-ST"/>
+<A Key="ALTPARTREF" Value="PWRBRD0"/>
+<A Key="ALTPCBSYMBOL" Value="PWRBRD0.NHP-CSB-24-ST"/>
+<A Key="PARTDESC" Value="POWER BOARD 24 POLE"/>
+<A Key="DESC" Value="POWER BOARD 24 POLE"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="??"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="??"/>
+<A Key="MFR" Value="NHP"/>
+<A Key="MFR_PN" Value="CSB-24-ST"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="24POLE-CB"/>
+<A Key="VALUE" Value="NHP-CSB-24-ST"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="RELAY-SKT-CHINT-CZT08B-01E" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="RELAY-SKT-CHINT-CZT08B-01E"/>
+<A Key="ALTPARTREF" Value="RLS08"/>
+<A Key="ALTPCBSYMBOL" Value="RLS08.CHINT-DPDT-CZT08B-01E"/>
+<A Key="PARTDESC" Value="RELAY SKT DINRAIL MNT"/>
+<A Key="DESC" Value="RELAY SOCKET"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="RLS08"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="MFR_PN" Value="TBD"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="10A"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="DINRAIL MNT"/>
+<A Key="VALUE" Value="RELAY-SKT-CHINT-CZT08B-01E"/>
+<A Key="VR" Value="24V DC"/>
+</Properties>
+</PartNumber>
+<PartNumber Name="RELAY-DPDT-CHINT-JQX-13F" Ver="1">
+<Properties Ver="1">
+<A Key="PARTNAME" Value="RELAY-DPDT-CHINT-JQX-13F"/>
+<A Key="ALTPARTREF" Value="RLY08P"/>
+<A Key="ALTPCBSYMBOL" Value="RLY08P.CHINT-RELAY-DPDT"/>
+<A Key="PARTDESC" Value="RELAY DPDT"/>
+<A Key="DESC" Value="RELAY DPDT"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="CHINT"/>
+<A Key="DST_PN" Value="??"/>
+<A Key="FP" Value="RLY08P.CHINT-RELAY-DPDT"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="MFR_PN" Value="JQX-13F"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PR" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="PLUGIN"/>
+<A Key="VALUE" Value="RELAY-DPDT-CHINT-JQX-13F"/>
+<A Key="VR" Value="24V DC"/>
+</Properties>
+</PartNumber>
+</partNumbers>
+<partReferences>
+<PartRef Name="RES" Ver="1">
+<Symbol Name="R"/>
+<Gate Name="R" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pin Name="G1:1" Net="1" Swap="1"/>
+<Pin Name="G1:2" Net="2" Swap="1"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="R"/>
+<A Key="PRDESC" Value="RESISTOR"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CAP" Ver="1">
+<Symbol Name="C"/>
+<Gate Name="CAP" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pin Name="G1:1" Net="1" Swap="1"/>
+<Pin Name="G1:2" Net="2" Swap="1"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="C"/>
+<A Key="PRDESC" Value="CAPACITOR"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="TP" Ver="1">
+<Symbol Name="TP"/>
+<Gate Name="TEST_POINT" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pin Name="G1:1" Net="1"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="T"/>
+<A Key="PRDESC" Value="test point"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="SA606M" Ver="1">
+<Symbol Name="IC20.SSOP"/>
+<Gate Name="SA606" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="12"/>
+<Pad Name="3" Net="14"/>
+<Pad Name="4" Net="15"/>
+<Pad Name="5" Net="16"/>
+<Pad Name="6" Net="17"/>
+<Pad Name="7" Net="18"/>
+<Pad Name="8" Net="19"/>
+<Pad Name="9" Net="20"/>
+<Pad Name="10" Net="2"/>
+<Pad Name="11" Net="3"/>
+<Pad Name="12" Net="4"/>
+<Pad Name="13" Net="5"/>
+<Pad Name="14" Net="6"/>
+<Pad Name="15" Net="7"/>
+<Pad Name="16" Net="8"/>
+<Pad Name="17" Net="9"/>
+<Pad Name="18" Net="10"/>
+<Pad Name="19" Net="11"/>
+<Pad Name="20" Net="13"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="12"/>
+<Pin Name="G1:3" Net="14"/>
+<Pin Name="G1:4" Net="15"/>
+<Pin Name="G1:5" Net="16"/>
+<Pin Name="G1:6" Net="17"/>
+<Pin Name="G1:7" Net="18"/>
+<Pin Name="G1:8" Net="19"/>
+<Pin Name="G1:9" Net="20"/>
+<Pin Name="G1:10" Net="2"/>
+<Pin Name="G1:11" Net="3"/>
+<Pin Name="G1:12" Net="4"/>
+<Pin Name="G1:13" Net="5"/>
+<Pin Name="G1:14" Net="6"/>
+<Pin Name="G1:15" Net="7"/>
+<Pin Name="G1:16" Net="8"/>
+<Pin Name="G1:17" Net="9"/>
+<Pin Name="G1:18" Net="10"/>
+<Pin Name="G1:19" Net="11"/>
+<Pin Name="G1:20" Net="13"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="SA606 FM IF SUBSYSTEM"/>
+<A Key="DESC" Value="?FM IF SYSTEM"/>
+<A Key="VALUE" Value="?SA606"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="INDUCTOR" Ver="1">
+<Symbol Name="L"/>
+<Gate Name="L" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pin Name="G1:A" Net="1"/>
+<Pin Name="G1:B" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="L"/>
+<A Key="PRDESC" Value="INDUCTOR"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="SA612M" Ver="1">
+<Symbol Name="IC8"/>
+<Gate Name="SA612" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="5" Net="5"/>
+<Pad Name="6" Net="6"/>
+<Pad Name="7" Net="7"/>
+<Pad Name="8" Net="8"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:5" Net="5"/>
+<Pin Name="G1:6" Net="6"/>
+<Pin Name="G1:7" Net="7"/>
+<Pin Name="G1:8" Net="8"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="SA612 FOUR QUADRANT MULTIPLIER"/>
+<A Key="DESC" Value="?DB MIXER"/>
+<A Key="VALUE" Value="?SA612A"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="OPAMP.SOT23-5" Ver="1">
+<Symbol Name="IC5.SOT23"/>
+<Gate Name="OPAMP-SOT23-5" Swap="1" Index="1"/>
+<Pad Name="1" Net="5"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="3" Net="2"/>
+<Pad Name="4" Net="3"/>
+<Pad Name="5" Net="4"/>
+<Pin Name="G1:Y+" Net="5"/>
+<Pin Name="G1:GND" Net="1"/>
+<Pin Name="G1:IN+" Net="2"/>
+<Pin Name="G1:IN-" Net="3"/>
+<Pin Name="G1:VCC" Net="4"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="OPAMP SINGLE SOT23"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="LMC567" Ver="1">
+<Symbol Name="IC8.SO"/>
+<Gate Name="LMC567" Swap="1" Index="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="5" Net="5"/>
+<Pad Name="7" Net="7"/>
+<Pad Name="6" Net="6"/>
+<Pad Name="8" Net="8"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:5" Net="5"/>
+<Pin Name="G1:7" Net="7"/>
+<Pin Name="G1:6" Net="6"/>
+<Pin Name="G1:8" Net="8"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="DESC" Value="IC DUAL COMPARATOR"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="POT" Ver="1">
+<Symbol Name="POT"/>
+<Gate Name="POT" Swap="1" Index="1"/>
+<Pad Name="SLIDER" Net="3"/>
+<Pad Name="CCW" Net="1"/>
+<Pad Name="CW" Net="2"/>
+<Pin Name="G1:SLIDER" Net="3"/>
+<Pin Name="G1:CCW" Net="1"/>
+<Pin Name="G1:CW" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="P"/>
+<A Key="PRDESC" Value="RESISTOR TRIMMER"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CY8C44" Ver="1">
+<Symbol Name="IC44"/>
+<Gate Name="CY8C44" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="12"/>
+<Pad Name="3" Net="23"/>
+<Pad Name="4" Net="34"/>
+<Pad Name="5" Net="40"/>
+<Pad Name="6" Net="41"/>
+<Pad Name="7" Net="42"/>
+<Pad Name="8" Net="43"/>
+<Pad Name="9" Net="44"/>
+<Pad Name="10" Net="2"/>
+<Pad Name="11" Net="3"/>
+<Pad Name="12" Net="4"/>
+<Pad Name="13" Net="5"/>
+<Pad Name="14" Net="6"/>
+<Pad Name="15" Net="7"/>
+<Pad Name="16" Net="8"/>
+<Pad Name="17" Net="9"/>
+<Pad Name="18" Net="10"/>
+<Pad Name="19" Net="11"/>
+<Pad Name="20" Net="13"/>
+<Pad Name="21" Net="14"/>
+<Pad Name="22" Net="15"/>
+<Pad Name="23" Net="16"/>
+<Pad Name="24" Net="17"/>
+<Pad Name="25" Net="18"/>
+<Pad Name="26" Net="19"/>
+<Pad Name="27" Net="20"/>
+<Pad Name="28" Net="21"/>
+<Pad Name="29" Net="22"/>
+<Pad Name="30" Net="24"/>
+<Pad Name="31" Net="25"/>
+<Pad Name="32" Net="26"/>
+<Pad Name="33" Net="27"/>
+<Pad Name="34" Net="28"/>
+<Pad Name="35" Net="29"/>
+<Pad Name="36" Net="30"/>
+<Pad Name="37" Net="31"/>
+<Pad Name="38" Net="32"/>
+<Pad Name="39" Net="33"/>
+<Pad Name="40" Net="35"/>
+<Pad Name="41" Net="36"/>
+<Pad Name="42" Net="37"/>
+<Pad Name="43" Net="38"/>
+<Pad Name="44" Net="39"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="12"/>
+<Pin Name="G1:3" Net="23"/>
+<Pin Name="G1:4" Net="34"/>
+<Pin Name="G1:5" Net="40"/>
+<Pin Name="G1:6" Net="41"/>
+<Pin Name="G1:7" Net="42"/>
+<Pin Name="G1:8" Net="43"/>
+<Pin Name="G1:9" Net="44"/>
+<Pin Name="G1:10" Net="2"/>
+<Pin Name="G1:11" Net="3"/>
+<Pin Name="G1:12" Net="4"/>
+<Pin Name="G1:13" Net="5"/>
+<Pin Name="G1:14" Net="6"/>
+<Pin Name="G1:15" Net="7"/>
+<Pin Name="G1:16" Net="8"/>
+<Pin Name="G1:17" Net="9"/>
+<Pin Name="G1:18" Net="10"/>
+<Pin Name="G1:19" Net="11"/>
+<Pin Name="G1:20" Net="13"/>
+<Pin Name="G1:21" Net="14"/>
+<Pin Name="G1:22" Net="15"/>
+<Pin Name="G1:23" Net="16"/>
+<Pin Name="G1:24" Net="17"/>
+<Pin Name="G1:25" Net="18"/>
+<Pin Name="G1:26" Net="19"/>
+<Pin Name="G1:27" Net="20"/>
+<Pin Name="G1:28" Net="21"/>
+<Pin Name="G1:29" Net="22"/>
+<Pin Name="G1:30" Net="24"/>
+<Pin Name="G1:31" Net="25"/>
+<Pin Name="G1:32" Net="26"/>
+<Pin Name="G1:33" Net="27"/>
+<Pin Name="G1:34" Net="28"/>
+<Pin Name="G1:35" Net="29"/>
+<Pin Name="G1:36" Net="30"/>
+<Pin Name="G1:37" Net="31"/>
+<Pin Name="G1:38" Net="32"/>
+<Pin Name="G1:39" Net="33"/>
+<Pin Name="G1:40" Net="35"/>
+<Pin Name="G1:41" Net="36"/>
+<Pin Name="G1:42" Net="37"/>
+<Pin Name="G1:43" Net="38"/>
+<Pin Name="G1:44" Net="39"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="CYPRESS PSOC 44 PIN MICROCONTROLLER"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="ROTARY-ENC-SW" Ver="1">
+<Symbol Name="ROTARY-ENC-SW"/>
+<Gate Name="ROTARY-ENC-SW" Swap="1" Index="1"/>
+<Pad Name="C" Net="5"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="4" Net="3"/>
+<Pad Name="8" Net="4"/>
+<Pin Name="G1:C" Net="5"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:4" Net="3"/>
+<Pin Name="G1:8" Net="4"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="ENC"/>
+<A Key="PRDESC" Value="HEX ROTARY ENCODER SWITCH"/>
+<A Key="DESC" Value="?ROTARY ENCODER SWITCH"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="JUMPER-2" Ver="1">
+<Symbol Name="CN2"/>
+<Gate Name="JUMPER-1X2" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="W"/>
+<A Key="PRDESC" Value="CONNECTOR 2-PIN"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="TCVCXO" Ver="1">
+<Symbol Name="IC4"/>
+<Gate Name="TCVCXO" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="X"/>
+<A Key="PRDESC" Value="TCVCXO CRYSTAL OSCILLATOR"/>
+<A Key="DESC" Value="?TCVCXO OSCILLATOR"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="PART_REF" Ver="1">
+<Symbol Name="PCB_SYMBOL"/>
+<Gate Name="SCH_SYMBOL" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="A"/>
+<A Key="PRDESC" Value="PART_REF FOR TESTING"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="LED" Ver="1">
+<Symbol Name="LED"/>
+<Gate Name="LED" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="LED"/>
+<A Key="PRDESC" Value="LED GENERIC"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="INDUCTOR-SHIELD" Ver="1">
+<Symbol Name="L"/>
+<Gate Name="L" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pin Name="G1:A" Net="1"/>
+<Pin Name="G1:B" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="L"/>
+<A Key="PRDESC" Value="INDUCTOR SHIELDED"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CN10" Ver="1">
+<Symbol Name="CN10"/>
+<Gate Name="CN10" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="3"/>
+<Pad Name="3" Net="4"/>
+<Pad Name="4" Net="5"/>
+<Pad Name="5" Net="6"/>
+<Pad Name="6" Net="7"/>
+<Pad Name="7" Net="8"/>
+<Pad Name="8" Net="9"/>
+<Pad Name="9" Net="10"/>
+<Pad Name="10" Net="2"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="3"/>
+<Pin Name="G1:3" Net="4"/>
+<Pin Name="G1:4" Net="5"/>
+<Pin Name="G1:5" Net="6"/>
+<Pin Name="G1:6" Net="7"/>
+<Pin Name="G1:7" Net="8"/>
+<Pin Name="G1:8" Net="9"/>
+<Pin Name="G1:9" Net="10"/>
+<Pin Name="G1:10" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="J"/>
+<A Key="PRDESC" Value="CONNECTORS 10-PIN"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="AD9833" Ver="1">
+<Symbol Name="IC10.MSOP"/>
+<Gate Name="AD9833" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="3"/>
+<Pad Name="3" Net="4"/>
+<Pad Name="4" Net="5"/>
+<Pad Name="5" Net="6"/>
+<Pad Name="6" Net="7"/>
+<Pad Name="7" Net="8"/>
+<Pad Name="8" Net="9"/>
+<Pad Name="9" Net="10"/>
+<Pad Name="10" Net="2"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="3"/>
+<Pin Name="G1:3" Net="4"/>
+<Pin Name="G1:4" Net="5"/>
+<Pin Name="G1:5" Net="6"/>
+<Pin Name="G1:6" Net="7"/>
+<Pin Name="G1:7" Net="8"/>
+<Pin Name="G1:8" Net="9"/>
+<Pin Name="G1:9" Net="10"/>
+<Pin Name="G1:10" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="SA606 FM IF SUBSYSTEM"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="REG_LM7805" Ver="1">
+<Symbol Name="T4"/>
+<Gate Name="REG-PTAB" Swap="1" Index="1"/>
+<Pad Name="1" Net="2"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pin Name="G1:IN" Net="2"/>
+<Pin Name="G1:GND" Net="1"/>
+<Pin Name="G1:OUT" Net="3"/>
+<Pin Name="G1:TAB" Net="4"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="VR"/>
+<A Key="PRDESC" Value="LM7805 REGULATOR"/>
+<A Key="DESC" Value="?VOLTAGE REGULATOR"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="DIODEC.ANK" Ver="1">
+<Symbol Name="D3"/>
+<Gate Name="DIODEC" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="3" Net="2"/>
+<Pin Name="G1:A" Net="1"/>
+<Pin Name="G1:K" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+</Properties>
+</PartRef>
+<PartRef Name="LM73" Ver="1">
+<Symbol Name="IC6.SOT23-6"/>
+<Gate Name="LM73" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="5" Net="5"/>
+<Pad Name="6" Net="6"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:5" Net="5"/>
+<Pin Name="G1:6" Net="6"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="LM73 SMBUS/I2C TEMP SENSOR"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="REG_LM2767" Ver="1">
+<Symbol Name="SOT23-5"/>
+<Gate Name="REG-5" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="5" Net="5"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:5" Net="5"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="LM2767 SWITCHED CAP DOUBLER"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CN8" Ver="1">
+<Symbol Name="CN8"/>
+<Gate Name="CN8" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="5" Net="5"/>
+<Pad Name="6" Net="6"/>
+<Pad Name="7" Net="7"/>
+<Pad Name="8" Net="8"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:5" Net="5"/>
+<Pin Name="G1:6" Net="6"/>
+<Pin Name="G1:7" Net="7"/>
+<Pin Name="G1:8" Net="8"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="J"/>
+<A Key="PRDESC" Value="CONNECTORS 8-PIN"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="PNP.BEC" Ver="1">
+<Symbol Name="T3"/>
+<Gate Name="PNP" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="3"/>
+<Pad Name="3" Net="2"/>
+<Pin Name="G1:B" Net="1"/>
+<Pin Name="G1:E" Net="3"/>
+<Pin Name="G1:C" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="T"/>
+<A Key="PRDESC" Value="TRANSISTOR NPN BEC"/>
+</Properties>
+</PartRef>
+<PartRef Name="NPN-BEC" Ver="1">
+<Symbol Name="T3"/>
+<Gate Name="NPN" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="3"/>
+<Pad Name="3" Net="2"/>
+<Pin Name="G1:B" Net="1"/>
+<Pin Name="G1:E" Net="3"/>
+<Pin Name="G1:C" Net="2"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="Q"/>
+<A Key="PRDESC" Value="TRANSISTOR NPN BEC"/>
+<A Key="DESC" Value="?SWITCHING TRANSISTOR"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="LM4040" Ver="1">
+<Symbol Name="T3.SOT23"/>
+<Gate Name="LM4040" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="LM4050 PRECISION VAR FIXED REFERENCE"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CN5" Ver="1">
+<Symbol Name="CN5"/>
+<Gate Name="CN5" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="5" Net="5"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:5" Net="5"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="J"/>
+<A Key="PRDESC" Value="CONNECTORS 5-PIN"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="D-S-SOT23-CC" Ver="1">
+<Symbol Name="D3"/>
+<Gate Name="D-S-SOT23" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="D"/>
+<A Key="PRDESC" Value="DIODE DUAL"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CN16" Ver="1">
+<Symbol Name="CN16"/>
+<Gate Name="CN16" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="9"/>
+<Pad Name="3" Net="10"/>
+<Pad Name="4" Net="11"/>
+<Pad Name="5" Net="12"/>
+<Pad Name="6" Net="13"/>
+<Pad Name="7" Net="14"/>
+<Pad Name="8" Net="15"/>
+<Pad Name="9" Net="16"/>
+<Pad Name="10" Net="2"/>
+<Pad Name="11" Net="3"/>
+<Pad Name="12" Net="4"/>
+<Pad Name="13" Net="5"/>
+<Pad Name="14" Net="6"/>
+<Pad Name="15" Net="7"/>
+<Pad Name="16" Net="8"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="9"/>
+<Pin Name="G1:3" Net="10"/>
+<Pin Name="G1:4" Net="11"/>
+<Pin Name="G1:5" Net="12"/>
+<Pin Name="G1:6" Net="13"/>
+<Pin Name="G1:7" Net="14"/>
+<Pin Name="G1:8" Net="15"/>
+<Pin Name="G1:9" Net="16"/>
+<Pin Name="G1:10" Net="2"/>
+<Pin Name="G1:11" Net="3"/>
+<Pin Name="G1:12" Net="4"/>
+<Pin Name="G1:13" Net="5"/>
+<Pin Name="G1:14" Net="6"/>
+<Pin Name="G1:15" Net="7"/>
+<Pin Name="G1:16" Net="8"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="J"/>
+<A Key="PRDESC" Value="CONNECTOR 16-PIN"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="AM26LV32" Ver="1">
+<Symbol Name="IC16"/>
+<Gate Name="AM26LV32" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="9"/>
+<Pad Name="3" Net="10"/>
+<Pad Name="4" Net="11"/>
+<Pad Name="5" Net="12"/>
+<Pad Name="6" Net="13"/>
+<Pad Name="7" Net="14"/>
+<Pad Name="8" Net="15"/>
+<Pad Name="9" Net="16"/>
+<Pad Name="10" Net="2"/>
+<Pad Name="11" Net="3"/>
+<Pad Name="12" Net="4"/>
+<Pad Name="13" Net="5"/>
+<Pad Name="14" Net="6"/>
+<Pad Name="15" Net="7"/>
+<Pad Name="16" Net="8"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="9"/>
+<Pin Name="G1:3" Net="10"/>
+<Pin Name="G1:4" Net="11"/>
+<Pin Name="G1:5" Net="12"/>
+<Pin Name="G1:6" Net="13"/>
+<Pin Name="G1:7" Net="14"/>
+<Pin Name="G1:8" Net="15"/>
+<Pin Name="G1:9" Net="16"/>
+<Pin Name="G1:10" Net="2"/>
+<Pin Name="G1:11" Net="3"/>
+<Pin Name="G1:12" Net="4"/>
+<Pin Name="G1:13" Net="5"/>
+<Pin Name="G1:14" Net="6"/>
+<Pin Name="G1:15" Net="7"/>
+<Pin Name="G1:16" Net="8"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="LVDS QUAD RECEIVER"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="AM26LV31" Ver="1">
+<Symbol Name="IC16"/>
+<Gate Name="AM26LV31" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="9"/>
+<Pad Name="3" Net="10"/>
+<Pad Name="4" Net="11"/>
+<Pad Name="5" Net="12"/>
+<Pad Name="6" Net="13"/>
+<Pad Name="7" Net="14"/>
+<Pad Name="8" Net="15"/>
+<Pad Name="9" Net="16"/>
+<Pad Name="10" Net="2"/>
+<Pad Name="11" Net="3"/>
+<Pad Name="12" Net="4"/>
+<Pad Name="13" Net="5"/>
+<Pad Name="14" Net="6"/>
+<Pad Name="15" Net="7"/>
+<Pad Name="16" Net="8"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="9"/>
+<Pin Name="G1:3" Net="10"/>
+<Pin Name="G1:4" Net="11"/>
+<Pin Name="G1:5" Net="12"/>
+<Pin Name="G1:6" Net="13"/>
+<Pin Name="G1:7" Net="14"/>
+<Pin Name="G1:8" Net="15"/>
+<Pin Name="G1:9" Net="16"/>
+<Pin Name="G1:10" Net="2"/>
+<Pin Name="G1:11" Net="3"/>
+<Pin Name="G1:12" Net="4"/>
+<Pin Name="G1:13" Net="5"/>
+<Pin Name="G1:14" Net="6"/>
+<Pin Name="G1:15" Net="7"/>
+<Pin Name="G1:16" Net="8"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="LVDS QUAD DRIVER"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="MTG_HOLE" Ver="1">
+<Symbol Name="MH"/>
+<Gate Name="MTG_HOLE" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pin Name="G1:1" Net="1"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="MH"/>
+<A Key="PRDESC" Value="MOUNTING HOLE GENERIC"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="REG_LD1117" Ver="1">
+<Symbol Name="T4"/>
+<Gate Name="REG-LD1117" Swap="1" Index="1"/>
+<Pad Name="3" Net="2"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pin Name="G1:IN" Net="2"/>
+<Pin Name="G1:GND" Net="1"/>
+<Pin Name="G1:OUT" Net="3"/>
+<Pin Name="G1:TAB" Net="4"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="VR"/>
+<A Key="PRDESC" Value="LD1117 3.3V REGULATOR"/>
+<A Key="DESC" Value="?VOLTAGE REGULATOR"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="LM4040-SC70-5" Ver="1">
+<Symbol Name="IC5.SC70-5"/>
+<Gate Name="LM4040-SC70-5" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="5" Net="5"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:5" Net="5"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="U"/>
+<A Key="PRDESC" Value="LM4050 PRECISION VAR FIXED REFERENCE"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="FLT5" Ver="1">
+<Symbol Name="FLT5"/>
+<Gate Name="FLT5" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="5" Net="5"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:5" Net="5"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="FL"/>
+<A Key="PRDESC" Value="FILTER 5-PIN"/>
+<A Key="DESC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="DB9S" Ver="1">
+<Symbol Name="DB9S"/>
+<Gate Name="DB9S" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pin Name="G1:1" Net="1"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DKY_PN" Value="?"/>
+<A Key="FAR_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR1" Value="?"/>
+<A Key="MFR2" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="CABLE-DB9"/>
+<A Key="PREFIX" Value="CBL"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="SBR0" Ver="1">
+<Symbol Name="SBR0"/>
+<Gate Name="SBR0" Swap="1" Index="1"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="SBR"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CAB0" Ver="1">
+<Symbol Name="CAB0"/>
+<Gate Name="CAB0" Swap="1" Index="1"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="CAB"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CBRKR06" Ver="1">
+<Symbol Name="CBRKR06"/>
+<Gate Name="CBRKR06" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="3" Net="2"/>
+<Pad Name="4" Net="3"/>
+<Pad Name="5" Net="4"/>
+<Pad Name="6" Net="5"/>
+<Pad Name="1" Net="6"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:3" Net="2"/>
+<Pin Name="G1:4" Net="3"/>
+<Pin Name="G1:5" Net="4"/>
+<Pin Name="G1:6" Net="5"/>
+<Pin Name="G1:1" Net="6"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="CBRKR"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CN05" Ver="1">
+<Symbol Name="CN05"/>
+<Gate Name="CN05" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="3" Net="2"/>
+<Pad Name="4" Net="3"/>
+<Pad Name="5" Net="4"/>
+<Pad Name="1" Net="5"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:3" Net="2"/>
+<Pin Name="G1:4" Net="3"/>
+<Pin Name="G1:5" Net="4"/>
+<Pin Name="G1:1" Net="5"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="CONNECTORS 5-PIN"/>
+<A Key="PREFIX" Value="J"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CTR11" Ver="1">
+<Symbol Name="CTR11"/>
+<Gate Name="CTR11" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="5" Net="5"/>
+<Pad Name="6" Net="6"/>
+<Pad Name="7" Net="7"/>
+<Pad Name="8" Net="8"/>
+<Pad Name="9" Net="9"/>
+<Pad Name="10" Net="10"/>
+<Pad Name="11" Net="11"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:5" Net="5"/>
+<Pin Name="G1:6" Net="6"/>
+<Pin Name="G1:7" Net="7"/>
+<Pin Name="G1:8" Net="8"/>
+<Pin Name="G1:9" Net="9"/>
+<Pin Name="G1:10" Net="10"/>
+<Pin Name="G1:11" Net="11"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="CTR"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="TRML-PIN" Ver="1">
+<Symbol Name="TRML-PIN"/>
+<Gate Name="TRML-PIN" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="1" Net="2"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:1" Net="2"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DKY_PN" Value="?"/>
+<A Key="FAR_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR1" Value="?"/>
+<A Key="MFR2" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="TRML-PIN"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="TRML-FORK" Ver="1">
+<Symbol Name="TRML-FORK"/>
+<Gate Name="TRML-FORK" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="1" Net="2"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:1" Net="2"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DKY_PN" Value="?"/>
+<A Key="FAR_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR1" Value="?"/>
+<A Key="MFR2" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="TRML-FORK"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="RLY06" Ver="1">
+<Symbol Name="RLY06"/>
+<Gate Name="RLY06" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="3" Net="2"/>
+<Pad Name="4" Net="3"/>
+<Pad Name="5" Net="4"/>
+<Pad Name="6" Net="5"/>
+<Pad Name="1" Net="6"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:3" Net="2"/>
+<Pin Name="G1:4" Net="3"/>
+<Pin Name="G1:5" Net="4"/>
+<Pin Name="G1:6" Net="5"/>
+<Pin Name="G1:1" Net="6"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="RLY"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="RLS08" Ver="1">
+<Symbol Name="RLS08"/>
+<Gate Name="RLS08" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="3" Net="2"/>
+<Pad Name="4" Net="3"/>
+<Pad Name="5" Net="4"/>
+<Pad Name="6" Net="5"/>
+<Pad Name="7" Net="6"/>
+<Pad Name="8" Net="7"/>
+<Pad Name="1" Net="8"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:3" Net="2"/>
+<Pin Name="G1:4" Net="3"/>
+<Pin Name="G1:5" Net="4"/>
+<Pin Name="G1:6" Net="5"/>
+<Pin Name="G1:7" Net="6"/>
+<Pin Name="G1:8" Net="7"/>
+<Pin Name="G1:1" Net="8"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="RLS"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="RLY08" Ver="1">
+<Symbol Name="RLY08"/>
+<Gate Name="RLY08" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="3" Net="2"/>
+<Pad Name="4" Net="3"/>
+<Pad Name="5" Net="4"/>
+<Pad Name="6" Net="5"/>
+<Pad Name="7" Net="6"/>
+<Pad Name="8" Net="7"/>
+<Pad Name="1" Net="8"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:3" Net="2"/>
+<Pin Name="G1:4" Net="3"/>
+<Pin Name="G1:5" Net="4"/>
+<Pin Name="G1:6" Net="5"/>
+<Pin Name="G1:7" Net="6"/>
+<Pin Name="G1:8" Net="7"/>
+<Pin Name="G1:1" Net="8"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="RLY"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CN06" Ver="1">
+<Symbol Name="CN06"/>
+<Gate Name="CN06" Swap="1" Index="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="4" Net="4"/>
+<Pad Name="5" Net="5"/>
+<Pad Name="6" Net="6"/>
+<Pad Name="1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:4" Net="4"/>
+<Pin Name="G1:5" Net="5"/>
+<Pin Name="G1:6" Net="6"/>
+<Pin Name="G1:1" Net="1"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="J"/>
+<A Key="PRDESC" Value="CONNECTORS 7-PIN"/>
+<A Key="FP" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="MFR1" Value="?"/>
+<A Key="MFR2" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="DESC" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="DKY_PN" Value="?"/>
+<A Key="FAR_PN" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="LED02" Ver="1">
+<Symbol Name="LED02"/>
+<Gate Name="LED02" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="1" Net="2"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:1" Net="2"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="LED"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CN03" Ver="1">
+<Symbol Name="CN03"/>
+<Gate Name="CN03" Swap="1" Index="1"/>
+<Pad Name="2" Net="2"/>
+<Pad Name="3" Net="3"/>
+<Pad Name="1" Net="1"/>
+<Pin Name="G1:2" Net="2"/>
+<Pin Name="G1:3" Net="3"/>
+<Pin Name="G1:1" Net="1"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="J"/>
+<A Key="PRDESC" Value="CONNECTORS 5-PIN"/>
+<A Key="FP" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="DESC" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="PRICE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CB02" Ver="1">
+<Symbol Name="CB02"/>
+<Gate Name="CB02" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="1" Net="2"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:1" Net="2"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DKY_PN" Value="?"/>
+<A Key="FAR_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR1" Value="?"/>
+<A Key="MFR2" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="CB"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="TRML-QC" Ver="1">
+<Symbol Name="TRML-QC"/>
+<Gate Name="TRML-QC" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="1" Net="2"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:1" Net="2"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DKY_PN" Value="?"/>
+<A Key="FAR_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR1" Value="?"/>
+<A Key="MFR2" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="TRML-QC"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CBRKR04" Ver="1">
+<Symbol Name="CBRKR04"/>
+<Gate Name="CBRKR04" Swap="1" Index="1"/>
+<Pad Name="2" Net="1"/>
+<Pad Name="3" Net="2"/>
+<Pad Name="4" Net="3"/>
+<Pad Name="1" Net="4"/>
+<Pin Name="G1:2" Net="1"/>
+<Pin Name="G1:3" Net="2"/>
+<Pin Name="G1:4" Net="3"/>
+<Pin Name="G1:1" Net="4"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="CBRKR"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="CN11" Ver="1">
+<Symbol Name="CN11"/>
+<Gate Name="CN11" Swap="1" Index="1"/>
+<Pad Name="1" Net="1"/>
+<Pad Name="2" Net="4"/>
+<Pad Name="3" Net="5"/>
+<Pad Name="4" Net="6"/>
+<Pad Name="5" Net="7"/>
+<Pad Name="6" Net="8"/>
+<Pad Name="7" Net="9"/>
+<Pad Name="8" Net="10"/>
+<Pad Name="9" Net="11"/>
+<Pad Name="10" Net="2"/>
+<Pad Name="11" Net="3"/>
+<Pin Name="G1:1" Net="1"/>
+<Pin Name="G1:2" Net="4"/>
+<Pin Name="G1:3" Net="5"/>
+<Pin Name="G1:4" Net="6"/>
+<Pin Name="G1:5" Net="7"/>
+<Pin Name="G1:6" Net="8"/>
+<Pin Name="G1:7" Net="9"/>
+<Pin Name="G1:8" Net="10"/>
+<Pin Name="G1:9" Net="11"/>
+<Pin Name="G1:10" Net="2"/>
+<Pin Name="G1:11" Net="3"/>
+<Properties Ver="1">
+<A Key="PREFIX" Value="J"/>
+<A Key="PRDESC" Value="CONNECTORS 11-PIN"/>
+</Properties>
+</PartRef>
+<PartRef Name="PWRBRD0" Ver="1">
+<Symbol Name="PWRBRD0"/>
+<Gate Name="PWRBRD0" Swap="1" Index="1"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="PWRBRD"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+<PartRef Name="RLY08P" Ver="1">
+<Symbol Name="RLY08P"/>
+<Gate Name="RLY08P" Swap="1" Index="1"/>
+<Properties Ver="1">
+<A Key="DESC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MFR" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="MIN_QTY" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="PRDESC" Value="?"/>
+<A Key="PREFIX" Value="RLY"/>
+<A Key="PRICE" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="TOL" Value="?"/>
+<A Key="TYPE" Value="?"/>
+<A Key="VALUE" Value="?"/>
+<A Key="VR" Value="?"/>
+</Properties>
+</PartRef>
+</partReferences>
+<pcbRules>
+<globalRule Name="_PCBGlobal">
+<globalRule>
+<clr>0.2032</clr>
+</globalRule>
+<innerRule/>
+<topRule/>
+<bottomRule/>
+<Links/>
+</globalRule>
+<signalRule Name="_PCBGlobalSignal">
+<globalRule/>
+<innerRule/>
+<topRule/>
+<bottomRule/>
+<Links/>
+</signalRule>
+</pcbRules>
+<PCBs>
+<pcb Name="TOP">
+<nets>
+<net Name="+24V" netClass="NONE"/>
+<net Name="GND" netClass="NONE"/>
+<net Name="$UN90" netClass="NONE"/>
+<net Name="$UN91" netClass="NONE"/>
+<net Name="$UN92" netClass="NONE"/>
+<net Name="$UN93" netClass="NONE"/>
+<net Name="$UN94" netClass="NONE"/>
+<net Name="$UN95" netClass="NONE"/>
+<net Name="$UN96" netClass="NONE"/>
+<net Name="$UN97" netClass="NONE"/>
+<net Name="$UN98" netClass="NONE"/>
+<net Name="$UN72" netClass="NONE"/>
+<net Name="$UN1" netClass="NONE"/>
+<net Name="$UN2" netClass="NONE"/>
+<net Name="$UN3" netClass="NONE"/>
+<net Name="$UN4" netClass="NONE"/>
+<net Name="$UN5" netClass="NONE"/>
+<net Name="$UN6" netClass="NONE"/>
+<net Name="$UN7" netClass="NONE"/>
+<net Name="$UN8" netClass="NONE"/>
+<net Name="$UN9" netClass="NONE"/>
+<net Name="$UN10" netClass="NONE"/>
+<net Name="$UN11" netClass="NONE"/>
+<net Name="$UN12" netClass="NONE"/>
+<net Name="$UN13" netClass="NONE"/>
+<net Name="$UN14" netClass="NONE"/>
+<net Name="$UN15" netClass="NONE"/>
+<net Name="$UN16" netClass="NONE"/>
+<net Name="$UN17" netClass="NONE"/>
+<net Name="$UN18" netClass="NONE"/>
+<net Name="$UN19" netClass="NONE"/>
+<net Name="$UN23" netClass="NONE"/>
+<net Name="$UN24" netClass="NONE"/>
+<net Name="$UN27" netClass="NONE"/>
+<net Name="$UN30" netClass="NONE"/>
+<net Name="$UN33" netClass="NONE"/>
+<net Name="$UN34" netClass="NONE"/>
+<net Name="$UN35" netClass="NONE"/>
+<net Name="$UN36" netClass="NONE"/>
+<net Name="$UN37" netClass="NONE"/>
+<net Name="$UN38" netClass="NONE"/>
+<net Name="$UN39" netClass="NONE"/>
+<net Name="$UN40" netClass="NONE"/>
+<net Name="$UN41" netClass="NONE"/>
+<net Name="$UN42" netClass="NONE"/>
+<net Name="$UN43" netClass="NONE"/>
+<net Name="$UN44" netClass="NONE"/>
+<net Name="$UN45" netClass="NONE"/>
+<net Name="$UN46" netClass="NONE"/>
+<net Name="$UN47" netClass="NONE"/>
+<net Name="$UN48" netClass="NONE"/>
+<net Name="$UN49" netClass="NONE"/>
+<net Name="$UN50" netClass="NONE"/>
+<net Name="$UN51" netClass="NONE"/>
+<net Name="$UN52" netClass="NONE"/>
+<net Name="$UN53" netClass="NONE"/>
+<net Name="$UN54" netClass="NONE"/>
+<net Name="$UN55" netClass="NONE"/>
+<net Name="$UN56" netClass="NONE"/>
+<net Name="$UN57" netClass="NONE"/>
+<net Name="$UN58" netClass="NONE"/>
+<net Name="$UN59" netClass="NONE"/>
+<net Name="$UN60" netClass="NONE"/>
+<net Name="$UN61" netClass="NONE"/>
+<net Name="$UN62" netClass="NONE"/>
+<net Name="$UN63" netClass="NONE"/>
+<net Name="$UN64" netClass="NONE"/>
+<net Name="$UN65" netClass="NONE"/>
+<net Name="$UN66" netClass="NONE"/>
+<net Name="$UN67" netClass="NONE"/>
+<net Name="$UN68" netClass="NONE"/>
+<net Name="$UN69" netClass="NONE"/>
+<net Name="$UN70" netClass="NONE"/>
+<net Name="$UN71" netClass="NONE"/>
+<net Name="$UN73" netClass="NONE"/>
+<net Name="$UN74" netClass="NONE"/>
+<net Name="$UN75" netClass="NONE"/>
+<net Name="$UN76" netClass="NONE"/>
+<net Name="$UN77" netClass="NONE"/>
+<net Name="$UN78" netClass="NONE"/>
+<net Name="$UN79" netClass="NONE"/>
+<net Name="$UN80" netClass="NONE"/>
+<net Name="$UN81" netClass="NONE"/>
+<net Name="$UN82" netClass="NONE"/>
+<net Name="$UN83" netClass="NONE"/>
+<net Name="$UN84" netClass="NONE"/>
+<net Name="$UN85" netClass="NONE"/>
+<net Name="$UN86" netClass="NONE"/>
+<net Name="$UN87" netClass="NONE"/>
+<net Name="$UN88" netClass="NONE"/>
+<net Name="$UN89" netClass="NONE"/>
+<net Name="$UN20" netClass="NONE"/>
+<net Name="$UN21" netClass="NONE"/>
+<net Name="$UN22" netClass="NONE"/>
+<net Name="$UN25" netClass="NONE"/>
+<net Name="$UN26" netClass="NONE"/>
+<net Name="$UN28" netClass="NONE"/>
+<net Name="$UN29" netClass="NONE"/>
+<net Name="$UN31" netClass="NONE"/>
+<net Name="$UN32" netClass="NONE"/>
+<net Name="$UN99" netClass="NONE"/>
+</nets>
+<compClasses>
+<compClass PartNumber="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm" PartRef="TRML-PIN" Symbol="TRML-PIN" PartName="TERMINAL PIN-BLU-1.04-2.6mm" Value="TERMINAL-PIN-BLU-1.04-2.6mm" Power="?">
+<I Name="{0017FB66-55DC-0695-4E4B-BF63F38EE0C4}" Designator="TRML-PIN55">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="+24V" pinOut="1"/>
+<Pin Name="2" Net="$UN99" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00C4DD4A-659C-28f7-0EAD-90E473EB1616}" Designator="TRML-PIN28">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN90" pinOut="1"/>
+<Pin Name="2" Net="$UN93" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00C4D725-517E-2cff-F0B5-8E0F2CF47CC4}" Designator="TRML-PIN27">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN91" pinOut="1"/>
+<Pin Name="2" Net="$UN94" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00C4D341-44BD-52ed-2FA3-B6ADFB780EA5}" Designator="TRML-PIN26">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN92" pinOut="1"/>
+<Pin Name="2" Net="$UN95" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00C4C0DD-08A1-2cf7-13AD-623F76671502}" Designator="TRML-PIN25">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN79" pinOut="1"/>
+<Pin Name="2" Net="$UN96" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00C4BCBA-7B12-7dc8-847E-4709EA93B345}" Designator="TRML-PIN24">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN80" pinOut="1"/>
+<Pin Name="2" Net="$UN97" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00C47A8F-22F1-5d83-6439-4A646DC8160E}" Designator="TRML-PIN23">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN81" pinOut="1"/>
+<Pin Name="2" Net="$UN98" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00AC1BDC-0FCE-14cf-4085-919EE604456F}" Designator="TRML-PIN54">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN58" pinOut="1"/>
+<Pin Name="2" Net="$UN1" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00AC0D4E-6039-7d10-ACC6-158E70A477F4}" Designator="TRML-PIN53">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN59" pinOut="1"/>
+<Pin Name="2" Net="$UN2" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0065E78F-4D46-3bbd-B873-44CD7C15199D}" Designator="TRML-PIN52">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN4" pinOut="1"/>
+<Pin Name="2" Net="$UN3" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0065B156-1C28-248b-9A41-63F6CF4EB02F}" Designator="TRML-PIN49">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN15" pinOut="1"/>
+<Pin Name="2" Net="$UN7" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{006598E9-4C57-1a45-C9FB-FEAC38D0971C}" Designator="TRML-PIN50">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN11" pinOut="1"/>
+<Pin Name="2" Net="$UN6" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0064794B-210D-37cd-7F83-300149C222A1}" Designator="TRML-PIN51">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN4" pinOut="1"/>
+<Pin Name="2" Net="$UN5" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{006248AD-7A43-2a64-B51A-93AF89738E31}" Designator="TRML-PIN48">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN78" pinOut="1"/>
+<Pin Name="2" Net="$UN18" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00623B76-4F0F-53d5-818B-4AB4FF47F39F}" Designator="TRML-PIN47">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN76" pinOut="1"/>
+<Pin Name="2" Net="$UN17" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{006175BA-494A-425c-BC12-765905C05871}" Designator="TRML-PIN46">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN65" pinOut="1"/>
+<Pin Name="2" Net="$UN16" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0051CDCB-2903-4f45-76FB-7ACDA8205BBF}" Designator="TRML-PIN44">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN19" pinOut="1"/>
+<Pin Name="2" Net="$UN23" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{005057E3-63F1-7ee5-639B-1159C43B6C12}" Designator="TRML-PIN45">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="+24V" pinOut="1"/>
+<Pin Name="2" Net="$UN24" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{004D7A54-0866-54f8-D8AE-85B602BC31AC}" Designator="TRML-PIN41">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN54" pinOut="1"/>
+<Pin Name="2" Net="$UN22" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{004D6F20-63C3-752e-35E3-EC597E0AF63F}" Designator="TRML-PIN42">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN48" pinOut="1"/>
+<Pin Name="2" Net="$UN21" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{004D6285-3A8C-346d-FE23-9EF365B802DE}" Designator="TRML-PIN43">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN19" pinOut="1"/>
+<Pin Name="2" Net="$UN20" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{004D28B3-7DAE-1029-20DF-97946EEB11C4}" Designator="TRML-PIN40">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN33" pinOut="1"/>
+<Pin Name="2" Net="$UN25" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00464F58-1FE8-3efd-5AB3-CFCBEA920726}" Designator="TRML-PIN39">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="+24V" pinOut="1"/>
+<Pin Name="2" Net="$UN26" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00463FE0-6D58-4687-CA3D-5B5B4BEB4061}" Designator="TRML-PIN38">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="GND" pinOut="1"/>
+<Pin Name="2" Net="$UN28" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00462A9F-27E3-68db-5591-E1E43E84755B}" Designator="TRML-PIN37">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN33" pinOut="1"/>
+<Pin Name="2" Net="$UN27" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00461D2A-7BE4-672a-56E0-1D13A4570EBC}" Designator="TRML-PIN36">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN30" pinOut="1"/>
+<Pin Name="2" Net="$UN29" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{004602D9-25E6-7baf-5965-451610DF7B0A}" Designator="TRML-PIN35">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN51" pinOut="1"/>
+<Pin Name="2" Net="$UN31" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0045EFB9-6765-805c-D712-F129C61CCE1F}" Designator="TRML-PIN34">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN52" pinOut="1"/>
+<Pin Name="2" Net="$UN32" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00417031-36EE-5a78-602D-325DF4E62894}" Designator="TRML-PIN32">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN30" pinOut="1"/>
+<Pin Name="2" Net="$UN34" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00411863-1825-49f4-97AA-2792EB8F52FC}" Designator="TRML-PIN33">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="GND" pinOut="1"/>
+<Pin Name="2" Net="$UN35" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{003D8703-7158-5c2b-CAE1-7049688F4895}" Designator="TRML-PIN30">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN90" pinOut="1"/>
+<Pin Name="2" Net="$UN36" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{003D7E4F-54DF-7364-511A-453554B02EF9}" Designator="TRML-PIN31">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN91" pinOut="1"/>
+<Pin Name="2" Net="$UN37" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{003C6259-3586-13c9-F87F-58070EBEA0A4}" Designator="TRML-PIN29">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-BLU-1.04-2.6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-PIN.M-CRIMP-BLU-1.04-2.6mm"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN92" pinOut="1"/>
+<Pin Name="2" Net="$UN38" pinOut="2"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="RELAY-SKT-CHINT-CZT08B-01E" PartRef="RLS08" Symbol="RLS08" PartName="RELAY-SKT-CHINT-CZT08B-01E" Value="RELAY-SKT-CHINT-CZT08B-01E" Power="?">
+<I Name="{00140941-730D-228c-7F42-8983E9BF6962}" Designator="RLS2">
+<Properties Ver="1">
+<A Key="DESC" Value="RELAY SOCKET"/>
+<A Key="VALUE" Value="RELAY-SKT-CHINT-CZT08B-01E"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="TBD"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="DINRAIL MNT"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="24V DC"/>
+<A Key="PR" Value="10A"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="RLS08"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="NONE" pinOut="1"/>
+<Pin Name="2" Net="$UN21" pinOut="2"/>
+<Pin Name="3" Net="NONE" pinOut="3"/>
+<Pin Name="4" Net="$UN28" pinOut="4"/>
+<Pin Name="5" Net="$UN22" pinOut="5"/>
+<Pin Name="6" Net="$UN20" pinOut="6"/>
+<Pin Name="7" Net="$UN29" pinOut="7"/>
+<Pin Name="8" Net="$UN99" pinOut="8"/>
+</Pins>
+</I>
+<I Name="{0013FEA9-5068-5891-DA47-EBBBD6E6D526}" Designator="RLS1">
+<Properties Ver="1">
+<A Key="DESC" Value="RELAY SOCKET"/>
+<A Key="VALUE" Value="RELAY-SKT-CHINT-CZT08B-01E"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="TBD"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="DINRAIL MNT"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="24V DC"/>
+<A Key="PR" Value="10A"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="RLS08"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN25" pinOut="1"/>
+<Pin Name="2" Net="NONE" pinOut="2"/>
+<Pin Name="3" Net="$UN31" pinOut="3"/>
+<Pin Name="4" Net="NONE" pinOut="4"/>
+<Pin Name="5" Net="NONE" pinOut="5"/>
+<Pin Name="6" Net="NONE" pinOut="6"/>
+<Pin Name="7" Net="$UN32" pinOut="7"/>
+<Pin Name="8" Net="$UN26" pinOut="8"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="RELAY-DPDT-CHINT-JQX-13F" PartRef="RLY08P" Symbol="RLY08P" PartName="RELAY-DPDT-CHINT-JQX-13F" Value="RELAY-DPDT-CHINT-JQX-13F" Power="?">
+<I Name="{008297F5-7BDF-5db3-5168-217D99B64664}" Designator="RLY2">
+<Properties Ver="1">
+<A Key="DESC" Value="RELAY DPDT"/>
+<A Key="VALUE" Value="RELAY-DPDT-CHINT-JQX-13F"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="DST" Value="CHINT"/>
+<A Key="MFR_PN" Value="JQX-13F"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="PLUGIN"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="24V DC"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="RLY08P.CHINT-RELAY-DPDT"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins/>
+</I>
+<I Name="{00827A5A-1B24-5a0a-96BF-E9C1BDFCA6AF}" Designator="RLY1">
+<Properties Ver="1">
+<A Key="DESC" Value="RELAY DPDT"/>
+<A Key="VALUE" Value="RELAY-DPDT-CHINT-JQX-13F"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="DST" Value="CHINT"/>
+<A Key="MFR_PN" Value="JQX-13F"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="PLUGIN"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="24V DC"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="RLY08P.CHINT-RELAY-DPDT"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins/>
+</I>
+</compClass>
+<compClass PartNumber="NHP-CSB-24-ST-PWR-BOARD" PartRef="PWRBRD0" Symbol="PWRBRD0" PartName="NHP-CSB-24-ST" Value="NHP-CSB-24-ST" Power="?">
+<I Name="{00EB69A7-47BC-6418-2ECE-7CCB17067E47}" Designator="PWRBRD1">
+<Properties Ver="1">
+<A Key="DESC" Value="POWER BOARD 24 POLE"/>
+<A Key="VALUE" Value="NHP-CSB-24-ST"/>
+<A Key="MFR" Value="NHP"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="CSB-24-ST"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="24POLE-CB"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins/>
+</I>
+</compClass>
+<compClass PartNumber="IPD-BM40630G-CABINET" PartRef="CAB0" Symbol="CAB0" PartName="IPD-BM40630G" Value="IPD-BM40630G" Power="?">
+<I Name="{00EA5C35-57BD-7846-2FFC-1E9A43F60FAC}" Designator="CAB2">
+<Properties Ver="1">
+<A Key="DESC" Value="CABINET MAIN POWER"/>
+<A Key="VALUE" Value="IPD-BM40630G"/>
+<A Key="MFR" Value="IPD"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="BM40630G"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="400X600X300mm"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="?"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins/>
+</I>
+</compClass>
+<compClass PartNumber="CB-3-PHASE-CHINT-NB163-C32" PartRef="CBRKR06" Symbol="CBRKR06" PartName="CB-3-PHASE-CHINT-NB163-C32" Value="CHINT-NB163-C32" Power="?">
+<I Name="{00BED34B-2CBB-0660-2D15-F68C6391B052}" Designator="CBRKR2">
+<Properties Ver="1">
+<A Key="DESC" Value="CIRCUIT BREAKER"/>
+<A Key="VALUE" Value="CHINT-NB163-C32"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="NB163-C32"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="DINRAIL-MOUNT"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="240 VAC"/>
+<A Key="PR" Value="10A"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CBRKR06.CHINT-NB163-C32"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="3.52"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN98" pinOut="1"/>
+<Pin Name="2" Net="$UN97" pinOut="2"/>
+<Pin Name="3" Net="$UN96" pinOut="3"/>
+<Pin Name="4" Net="$UN95" pinOut="4"/>
+<Pin Name="5" Net="$UN94" pinOut="5"/>
+<Pin Name="6" Net="$UN93" pinOut="6"/>
+</Pins>
+</I>
+<I Name="{003E8AB8-417D-68ee-EFA4-6D1BF6F8BEC3}" Designator="CBRKR1">
+<Properties Ver="1">
+<A Key="DESC" Value="CIRCUIT BREAKER"/>
+<A Key="VALUE" Value="CHINT-NB163-C32"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="NB163-C32"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="DINRAIL-MOUNT"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="240 VAC"/>
+<A Key="PR" Value="10A"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CBRKR06.CHINT-NB163-C32"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="3.52"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN84" pinOut="1"/>
+<Pin Name="2" Net="$UN83" pinOut="2"/>
+<Pin Name="3" Net="$UN82" pinOut="3"/>
+<Pin Name="4" Net="$UN75" pinOut="4"/>
+<Pin Name="5" Net="$UN74" pinOut="5"/>
+<Pin Name="6" Net="$UN73" pinOut="6"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="CTR-3-PHASE-CHINT-NC1-32" PartRef="CTR11" Symbol="CTR11" PartName="CTR-3-PHASE-CHINT-NC1-32" Value="CHINT-NC1-32" Power="?">
+<I Name="{01F90FB8-5876-2c59-E80F-7183A1899002}" Designator="CTR1">
+<Properties Ver="1">
+<A Key="DESC" Value="CONTACTER"/>
+<A Key="VALUE" Value="CHINT-NC1-32"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="NC1-32"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="DINRAIL-MOUNT"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="240 VAC"/>
+<A Key="PR" Value="32A"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CTR11.CHINT-NC1-32"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="3.52"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN72" pinOut="1"/>
+<Pin Name="2" Net="$UN69" pinOut="2"/>
+<Pin Name="3" Net="$UN71" pinOut="3"/>
+<Pin Name="4" Net="$UN68" pinOut="4"/>
+<Pin Name="5" Net="$UN70" pinOut="5"/>
+<Pin Name="6" Net="$UN67" pinOut="6"/>
+<Pin Name="7" Net="$UN53" pinOut="7"/>
+<Pin Name="8" Net="$UN57" pinOut="8"/>
+<Pin Name="9" Net="NONE" pinOut="9"/>
+<Pin Name="10" Net="$UN55" pinOut="10"/>
+<Pin Name="11" Net="$UN56" pinOut="11"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="TRML-QC.FI-FEMALE-BLU-6.3" PartRef="TRML-QC" Symbol="TRML-QC" PartName="TERMINAL-QC-FI-F-BLU-6.3" Value="TERMINAL-QC-FI-F-BLU-6.3" Power="?">
+<I Name="{00A9C7BA-74FC-5efa-6EB0-B09E8A64FFF1}" Designator="TRML-QC6">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL QUICK CONNECT"/>
+<A Key="VALUE" Value="TERMINAL-QC-FI-F-BLU-6.3"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-QC.FI-FEMALE-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN58" pinOut="1"/>
+<Pin Name="2" Net="$UN8" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00A9C0E9-5EAC-2d6c-1F22-303F28273763}" Designator="TRML-QC1">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL QUICK CONNECT"/>
+<A Key="VALUE" Value="TERMINAL-QC-FI-F-BLU-6.3"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-QC.FI-FEMALE-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN59" pinOut="1"/>
+<Pin Name="2" Net="$UN9" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00A9BCD6-5151-1e03-C4B9-98FE46BF5BB2}" Designator="TRML-QC2">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL QUICK CONNECT"/>
+<A Key="VALUE" Value="TERMINAL-QC-FI-F-BLU-6.3"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-QC.FI-FEMALE-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN11" pinOut="1"/>
+<Pin Name="2" Net="$UN10" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00A9B73E-3F00-4210-72C6-D5C7138D0916}" Designator="TRML-QC3">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL QUICK CONNECT"/>
+<A Key="VALUE" Value="TERMINAL-QC-FI-F-BLU-6.3"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-QC.FI-FEMALE-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN58" pinOut="1"/>
+<Pin Name="2" Net="$UN12" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00A9B29F-2FDC-3c9f-4E54-C6E668B70E3F}" Designator="TRML-QC4">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL QUICK CONNECT"/>
+<A Key="VALUE" Value="TERMINAL-QC-FI-F-BLU-6.3"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-QC.FI-FEMALE-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN59" pinOut="1"/>
+<Pin Name="2" Net="$UN13" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00A86434-6BBD-6056-300C-C95955A27685}" Designator="TRML-QC5">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL QUICK CONNECT"/>
+<A Key="VALUE" Value="TERMINAL-QC-FI-F-BLU-6.3"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-QC.FI-FEMALE-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN15" pinOut="1"/>
+<Pin Name="2" Net="$UN14" pinOut="2"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="TRML-PIN.M-CRIMP-YEL-2.5-6mm" PartRef="TRML-PIN" Symbol="TRML-PIN" PartName="TERMINAL-PIN-YEL-2.5-6mm" Value="TERMINAL-PIN-YEL-2.5-6mm" Power="?">
+<I Name="{01035BB0-7999-50de-0B94-56B7A3F1510E}" Designator="TRML-PIN6">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN39" pinOut="1"/>
+<Pin Name="2" Net="$UN42" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{010355F9-66E2-5f5b-5411-5696673E18EC}" Designator="TRML-PIN5">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN40" pinOut="1"/>
+<Pin Name="2" Net="$UN43" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0103163E-16B7-1654-290A-4345B1DC1579}" Designator="TRML-PIN4">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN41" pinOut="1"/>
+<Pin Name="2" Net="$UN44" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0102D480-3FFA-5687-6D3D-8156F4FFB2E0}" Designator="TRML-PIN3">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN41" pinOut="1"/>
+<Pin Name="2" Net="$UN47" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0102CB8D-22B4-18a3-2659-136D85C8A3A6}" Designator="TRML-PIN2">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN40" pinOut="1"/>
+<Pin Name="2" Net="$UN46" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{010269B2-6319-0a3e-8BF4-2788F4BD3C74}" Designator="TRML-PIN1">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN39" pinOut="1"/>
+<Pin Name="2" Net="$UN45" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{019648B3-466D-50d5-DF8B-7AD19E41F7FB}" Designator="TRML-PIN18">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN66" pinOut="1"/>
+<Pin Name="2" Net="$UN63" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01964240-3150-09f5-C2AB-7A319FDD0991}" Designator="TRML-PIN19">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN65" pinOut="1"/>
+<Pin Name="2" Net="$UN62" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01963E2D-23F5-7a8c-6742-E2F0BD752EE0}" Designator="TRML-PIN20">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN64" pinOut="1"/>
+<Pin Name="2" Net="$UN61" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0195D3CA-487E-3acf-F085-3FE5F680AEFE}" Designator="TRML-PIN22">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN58" pinOut="1"/>
+<Pin Name="2" Net="$UN49" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0195D3BD-4847-18f1-B9A7-08E11F0B9398}" Designator="TRML-PIN21">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN59" pinOut="1"/>
+<Pin Name="2" Net="$UN60" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01928FDD-1E9C-14b3-0E69-A9762EA98A70}" Designator="TRML-PIN17">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN76" pinOut="1"/>
+<Pin Name="2" Net="$UN73" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01928C38-12A8-0fbf-1A75-14E9578510EF}" Designator="TRML-PIN16">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN77" pinOut="1"/>
+<Pin Name="2" Net="$UN74" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0191D921-49C6-4d47-38FD-5AC3C508A616}" Designator="TRML-PIN15">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN78" pinOut="1"/>
+<Pin Name="2" Net="$UN75" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01905A45-6777-1513-E9C9-C77434A28DAB}" Designator="TRML-PIN14">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN79" pinOut="1"/>
+<Pin Name="2" Net="$UN82" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01905384-515C-834b-CE01-CA0A7CD14D28}" Designator="TRML-PIN13">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN80" pinOut="1"/>
+<Pin Name="2" Net="$UN83" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01900DB1-6D4B-602a-BDE0-ECE855ECCACA}" Designator="TRML-PIN12">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN81" pinOut="1"/>
+<Pin Name="2" Net="$UN84" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0189FCF1-1E9D-2c18-0FCE-A273DB0F71D1}" Designator="TRML-PIN11">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN58" pinOut="1"/>
+<Pin Name="2" Net="$UN85" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0189F758-0C48-2629-BADF-173E5D86F6A5}" Designator="TRML-PIN10">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN59" pinOut="1"/>
+<Pin Name="2" Net="$UN86" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0189F2F8-7DF2-75d5-648B-4A310D08EF6C}" Designator="TRML-PIN9">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN79" pinOut="1"/>
+<Pin Name="2" Net="$UN87" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0189EC27-67A2-4447-15FD-CAD2ABCB27DE}" Designator="TRML-PIN8">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN80" pinOut="1"/>
+<Pin Name="2" Net="$UN88" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0189217C-51C1-0e89-343F-65DAC660FBAC}" Designator="TRML-PIN7">
+<Properties Ver="1">
+<A Key="DESC" Value="TERMINAL PIN"/>
+<A Key="VALUE" Value="TERMINAL-PIN-YEL-2.5-6mm"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="ALTRONICS"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="H2007A"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-SP.SPADE-CRIMP-BLU-6.3"/>
+<A Key="MIN_QTY" Value="100"/>
+<A Key="PRICE" Value="24.00"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN81" pinOut="1"/>
+<Pin Name="2" Net="$UN89" pinOut="2"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="CN03-NEUTRIK-PWRCON-NAC3FPX" PartRef="CN03" Symbol="CN03" PartName="NEUTRIK-NAC3FPX" Value="NEUTRIK-NAC3FPX" Power="?">
+<I Name="{007657BA-7ADF-36b4-516A-E661A67336B1}" Designator="J3">
+<Properties Ver="1">
+<A Key="DESC" Value="CONN XLR POWER"/>
+<A Key="VALUE" Value="NEUTRIK-NAC3FPX"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="NEUTRIK-NAC3FPX"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="XLR"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CN03.NEUTRIK-NAC3FPX"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN10" pinOut="1"/>
+<Pin Name="2" Net="$UN9" pinOut="2"/>
+<Pin Name="3" Net="$UN8" pinOut="3"/>
+</Pins>
+</I>
+<I Name="{00762A38-6636-0631-A8E7-7B8FE1835284}" Designator="J2">
+<Properties Ver="1">
+<A Key="DESC" Value="CONN XLR POWER"/>
+<A Key="VALUE" Value="NEUTRIK-NAC3FPX"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="NEUTRIK-NAC3FPX"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="XLR"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CN03.NEUTRIK-NAC3FPX"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN14" pinOut="1"/>
+<Pin Name="2" Net="$UN13" pinOut="2"/>
+<Pin Name="3" Net="$UN12" pinOut="3"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="CB-SINGLE-PHASE-RCD-16A" PartRef="CBRKR04" Symbol="CBRKR04" PartName="CB-SINGLE-PHASE-10A" Value="CHINT-NBH8LE-40-C16" Power="?">
+<I Name="{006A42AC-061B-55cb-8D81-77E1BF0EE4D9}" Designator="CB3">
+<Properties Ver="1">
+<A Key="DESC" Value="CIRCUIT BREAKER"/>
+<A Key="VALUE" Value="CHINT-NBH8LE-40-C16"/>
+<A Key="MFR" Value="AGM"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="MFR_PN" Value="MOD6110"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="PANEL-MOUNT"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="240 VAC"/>
+<A Key="PR" Value="10A"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CB02"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="3.52"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN16" pinOut="1"/>
+<Pin Name="2" Net="$UN7" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{0067961B-4A8C-27cf-FE85-C19F8EA671D9}" Designator="CB1">
+<Properties Ver="1">
+<A Key="DESC" Value="CIRCUIT BREAKER"/>
+<A Key="VALUE" Value="CHINT-NBH8LE-40-C16"/>
+<A Key="MFR" Value="AGM"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="MFR_PN" Value="MOD6110"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="PANEL-MOUNT"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="240 VAC"/>
+<A Key="PR" Value="10A"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CB02"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="3.52"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN18" pinOut="1"/>
+<Pin Name="2" Net="$UN5" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00668E8F-6DDD-62d8-4F8E-246FA635A7F2}" Designator="CB2">
+<Properties Ver="1">
+<A Key="DESC" Value="CIRCUIT BREAKER"/>
+<A Key="VALUE" Value="CHINT-NBH8LE-40-C16"/>
+<A Key="MFR" Value="AGM"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="MFR_PN" Value="MOD6110"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="PANEL-MOUNT"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="240 VAC"/>
+<A Key="PR" Value="10A"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CB02"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="3.52"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN17" pinOut="1"/>
+<Pin Name="2" Net="$UN6" pinOut="2"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="CN03-CLIPSAL-2025-DUAL-GPO" PartRef="CN03" Symbol="CN03" PartName="CLIPSAL-DUAL-GPO-2025" Value="CLIPSAL-2025" Power="?">
+<I Name="{004C3FE8-8539-0679-AB2F-D315C68F1A86}" Designator="J1">
+<Properties Ver="1">
+<A Key="DESC" Value="NITE LIGHT PWR CONN"/>
+<A Key="VALUE" Value="CLIPSAL-2025"/>
+<A Key="MFR" Value="CLIPSAL"/>
+<A Key="DST" Value=""/>
+<A Key="MFR_PN" Value="2025"/>
+<A Key="DST_PN" Value=""/>
+<A Key="TYPE" Value="CUSTOM"/>
+<A Key="TOL" Value=""/>
+<A Key="VR" Value=""/>
+<A Key="PR" Value=""/>
+<A Key="TC" Value=""/>
+<A Key="DIELC" Value=""/>
+<A Key="FP" Value="CN03.CLIPSAL-DUAL-GPO-2025"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value=""/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN3" pinOut="1"/>
+<Pin Name="2" Net="$UN2" pinOut="2"/>
+<Pin Name="3" Net="$UN1" pinOut="3"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="LED-CHINT22-DC24V" PartRef="LED02" Symbol="LED02" PartName="LED-RED-CHINT22-24V" Value="LED_22mm_RED" Power="?">
+<I Name="{003BB922-0D32-6e22-A4D8-9D683603F842}" Designator="LED1">
+<Properties Ver="1">
+<A Key="DESC" Value="LED-RED 22MM"/>
+<A Key="VALUE" Value="LED_22mm_RED"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="DST" Value="CHINT"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="RED 22MM"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value=""/>
+<A Key="PR" Value="10mA"/>
+<A Key="TC" Value=""/>
+<A Key="DIELC" Value=""/>
+<A Key="FP" Value="LED02.CHINT22-DC24V"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="1.60"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN23" pinOut="1"/>
+<Pin Name="2" Net="$UN24" pinOut="2"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="TRML-FORK.CRIMP-YEL-M2.5-M6" PartRef="TRML-FORK" Symbol="TRML-FORK" PartName="FORK-CRIMP-YEL-M2.5-M6" Value="FORK-CRIMP-YEL-M2.5-M6" Power="?">
+<I Name="{00105517-5AE6-0e09-58BF-4D5B47BF6062}" Designator="TRML-FORK1">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="GND" pinOut="1"/>
+<Pin Name="2" Net="$UN55" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{00104448-23F5-5463-6719-A6D7BDE467B5}" Designator="TRML-FORK2">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN54" pinOut="1"/>
+<Pin Name="2" Net="$UN53" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{000EFAAD-6F8E-06d0-0086-FDFC8D337A78}" Designator="TRML-FORK3">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN50" pinOut="1"/>
+<Pin Name="2" Net="$UN56" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{000EEC10-3FC8-7946-3AFC-C7F7B9BD4E82}" Designator="TRML-FORK4">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="+24V" pinOut="1"/>
+<Pin Name="2" Net="$UN57" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01A3F3C8-6969-24f1-DBA7-4EFB14A8CD7B}" Designator="TRML-FORK5">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN64" pinOut="1"/>
+<Pin Name="2" Net="$UN67" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01A3F3BB-6932-8313-A4C9-17F73E33B215}" Designator="TRML-FORK6">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN65" pinOut="1"/>
+<Pin Name="2" Net="$UN68" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01A3F3AE-68FA-6135-6CEB-DFF267BF98AE}" Designator="TRML-FORK7">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN66" pinOut="1"/>
+<Pin Name="2" Net="$UN69" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01A2EA4E-0653-5ad0-C585-52032AC1DB34}" Designator="TRML-FORK8">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN76" pinOut="1"/>
+<Pin Name="2" Net="$UN70" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01A2DBEF-5758-7867-CA1D-96D3664D7B4B}" Designator="TRML-FORK9">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN77" pinOut="1"/>
+<Pin Name="2" Net="$UN71" pinOut="2"/>
+</Pins>
+</I>
+<I Name="{01A27D8D-2314-3787-863D-CA8CCE718DAE}" Designator="TRML-FORK10">
+<Properties Ver="1">
+<A Key="DESC" Value="FORK TERMINAL"/>
+<A Key="VALUE" Value="FORK-CRIMP-YEL-M2.5-M6"/>
+<A Key="MFR" Value="?"/>
+<A Key="DST" Value="?"/>
+<A Key="MFR_PN" Value="?"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="CRIMP"/>
+<A Key="TOL" Value="NA"/>
+<A Key="VR" Value="NA"/>
+<A Key="PR" Value="NA"/>
+<A Key="TC" Value="NA"/>
+<A Key="DIELC" Value="NA"/>
+<A Key="FP" Value="TRML-FORK.CRIMP-YEL-M2.5-M6"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="0.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN78" pinOut="1"/>
+<Pin Name="2" Net="$UN72" pinOut="2"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="CN06-XLR-NC6FD-LX" PartRef="CN06" Symbol="CN06" PartName="XLR-NC6FD-LX" Value="XLR-NC6FD-LX" Power="?">
+<I Name="{00049EAE-1B26-6af5-98AB-F3DB63D079EF}" Designator="J5">
+<Properties Ver="1">
+<A Key="DESC" Value="CONNECTOR"/>
+<A Key="VALUE" Value="XLR-NC6FD-LX"/>
+<A Key="MFR" Value="NUTRIK"/>
+<A Key="DST" Value="MOUSER"/>
+<A Key="MFR_PN" Value="NC6FD-LX"/>
+<A Key="DST_PN" Value="568-NC6FD-LX"/>
+<A Key="TYPE" Value="XLR"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CN06.NEUTRIK-NC6FD-LX"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="21.65"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="GND" pinOut="1"/>
+<Pin Name="2" Net="$UN52" pinOut="2"/>
+<Pin Name="3" Net="$UN51" pinOut="3"/>
+<Pin Name="4" Net="$UN48" pinOut="4"/>
+<Pin Name="5" Net="$UN50" pinOut="5"/>
+<Pin Name="6" Net="+24V" pinOut="6"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="RELAY-PHASE-FAILURE" PartRef="RLY06" Symbol="RLY06" PartName="RELAY-PHASE-FAILURE" Value="DPA51CM44B003" Power="?">
+<I Name="{01E904AB-740D-30fd-7FB3-92873408BA1D}" Designator="RLY1">
+<Properties Ver="1">
+<A Key="DESC" Value="RELAY PHASE FAILURE"/>
+<A Key="VALUE" Value="DPA51CM44B003"/>
+<A Key="MFR" Value="CHINT"/>
+<A Key="DST" Value="DIGIKEY"/>
+<A Key="MFR_PN" Value="DPA51CM44B003"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="DIN MOUNT"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="240VAC"/>
+<A Key="PR" Value="15A"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="RLY06"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN38" pinOut="1"/>
+<Pin Name="2" Net="$UN37" pinOut="2"/>
+<Pin Name="3" Net="$UN36" pinOut="3"/>
+<Pin Name="4" Net="$UN35" pinOut="4"/>
+<Pin Name="5" Net="NONE" pinOut="5"/>
+<Pin Name="6" Net="$UN34" pinOut="6"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="CN05-HYPRA-LEGRAND-53051-32AMP" PartRef="CN05" Symbol="CN05" PartName="HYPRA-LEGRAND-53051-32A" Value="HYPRA-LEGRAND-53051-32AMP" Power="?">
+<I Name="{00AF92EA-5F21-6ba8-935E-2E7110BC191A}" Designator="J4">
+<Properties Ver="1">
+<A Key="DESC" Value="CONN SKT 3 PHASE"/>
+<A Key="VALUE" Value="HYPRA-LEGRAND-53051-32AMP"/>
+<A Key="MFR" Value="HYPRA-LEGRAND"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="MFR_PN" Value="53051"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="SOCKET SWITCH"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CN05.HYPRA-LEGRAND-53051"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN63" pinOut="1"/>
+<Pin Name="2" Net="$UN62" pinOut="2"/>
+<Pin Name="3" Net="$UN61" pinOut="3"/>
+<Pin Name="4" Net="$UN60" pinOut="4"/>
+<Pin Name="5" Net="$UN49" pinOut="5"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="CN11-CLIPSAL-56A1523-32AMP" PartRef="CN11" Symbol="CN11" PartName="CLIPSAL-56A1523-32A" Value="CLIPSAL-56A1523-32AMP" Power="?">
+<I Name="{0075F91F-4579-1c39-EBEF-20D80BDFDE72}" Designator="J6">
+<Properties Ver="1">
+<A Key="DESC" Value="CONN SKT 3 PHASE"/>
+<A Key="VALUE" Value="CLIPSAL-56A1523-32AMP"/>
+<A Key="MFR" Value="CLIPSAL"/>
+<A Key="DST" Value="LOCAL"/>
+<A Key="MFR_PN" Value="56A1523"/>
+<A Key="DST_PN" Value="?"/>
+<A Key="TYPE" Value="SOCKET SWITCH"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="?"/>
+<A Key="PR" Value="?"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="CN11.CLIPSAL-3-PHASE-SKT-SWITCH"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="?"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="$UN89" pinOut="1"/>
+<Pin Name="2" Net="$UN88" pinOut="2"/>
+<Pin Name="3" Net="$UN87" pinOut="3"/>
+<Pin Name="4" Net="$UN45" pinOut="4"/>
+<Pin Name="5" Net="$UN46" pinOut="5"/>
+<Pin Name="6" Net="$UN47" pinOut="6"/>
+<Pin Name="7" Net="$UN42" pinOut="7"/>
+<Pin Name="8" Net="$UN43" pinOut="8"/>
+<Pin Name="9" Net="$UN44" pinOut="9"/>
+<Pin Name="10" Net="$UN86" pinOut="10"/>
+<Pin Name="11" Net="$UN85" pinOut="11"/>
+</Pins>
+</I>
+</compClass>
+<compClass PartNumber="DB9-MALE-FEMALE-2M" PartRef="DB9S" Symbol="DB9S" PartName="DB9-MALE-FEMALE-2M" Value="CABLE-DB9" Power="?">
+<I Name="{00F9A4F5-40E1-0b1d-53D3-C22B0F05789B}" Designator="CBL1">
+<Properties Ver="1">
+<A Key="DESC" Value="CABLE"/>
+<A Key="VALUE" Value="CABLE-DB9"/>
+<A Key="MFR" Value="EMERSON"/>
+<A Key="DST" Value="DIGIKEY"/>
+<A Key="MFR_PN" Value="30-9506-99"/>
+<A Key="DST_PN" Value="367-1129-ND"/>
+<A Key="TYPE" Value="SHIELDED"/>
+<A Key="TOL" Value="?"/>
+<A Key="VR" Value="3.3V"/>
+<A Key="PR" Value="800mA"/>
+<A Key="TC" Value="?"/>
+<A Key="DIELC" Value="?"/>
+<A Key="FP" Value="DB9S"/>
+<A Key="MIN_QTY" Value="1"/>
+<A Key="PRICE" Value="4.53"/>
+</Properties>
+<Pins>
+<Pin Name="1" Net="NONE" pinOut="1"/>
+</Pins>
+</I>
+</compClass>
+</compClasses>
+</pcb>
+</PCBs>
+</flatNet>
